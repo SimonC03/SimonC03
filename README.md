@@ -1,7 +1,8 @@
 # Simon Carlén - @SimonC03
 
 🚀 Developer | Business & Engineering Student @ Chalmers & School of Business, Economics and Law  
-Passionate about combining technology with business, building impactful solutions, and exploring new ideas.
+Passionate about combining technology with business, building impactful solutions, and exploring new ideas.  
+Currently pursuing double bachelor’s degrees in Mechatronics Engineering and Business Administration, with plans to continue toward an MSc in Data Science & AI
 
 ---
 
@@ -16,8 +17,7 @@ Passionate about combining technology with business, building impactful solution
 **Languages:** C, Python, TypeScript, JavaScript, Kotlin, PHP, SQL (mySQL)  
 **Frontend:** React, Next.js, HTML, CSS  
 **Backend:** Node.js, PHP, mySQL  
-**Design:** Figma
-**Tools:** VS Code, CLion, MATLAB
-**Hardware:** MacBook Pro M1 or PC
+**Tools:** VS Code, CLion, MATLAB, Figma  
+**Hardware:** MacBook Pro M1 or PC  
 
 ---
