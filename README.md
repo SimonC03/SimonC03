@@ -1,7 +1,7 @@
 # Simon Carlén - @SimonC03
 
 🚀 Developer | Business & Engineering Student @ Chalmers & School of Business, Economics and Law  
-Passionate about combining technology with business, building impactful solutions, and exploring new ideas. Currently pursuing double bachelor’s degrees in Mechatronics Engineering and Business Administration, with plans to continue toward an MSc in Data Science & AI
+Passionate about combining technology with business, building impactful solutions, and exploring new ideas.
 
 ---
 
