@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hej 👋 Jag heter Simon Carlén  
+
+🎓 Student på Chalmers & Handelshögskolan i Göteborg  
+💼 Managementkonsult @ Handels Consulting  
+🚀 Grundare av StuNote  
+
+## 🔧 Tech stack
+- Python, MATLAB, Java
+- React, Node.js
+- SQL, Git
+
+****
 
 <!--
 **SimonC03/SimonC03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
