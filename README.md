@@ -1,27 +1,23 @@
-# Hej 👋 Jag heter Simon Carlén  
+# Simon Carlén - @simoncarlen
 
-🎓 Student på Chalmers & Handelshögskolan i Göteborg  
-💼 Managementkonsult @ Handels Consulting  
-🚀 Grundare av StuNote  
+🚀 Developer | Business & Engineering Student @ Chalmers & School of Business, Economics and Law  
+Passionate about combining technology with business, building impactful solutions, and exploring new ideas.  
 
-## 🔧 Tech stack
-- Python, MATLAB, Java
-- React, Node.js
-- SQL, Git
+---
 
-****
+## 🛠 What I Do  
+📱 **Mobile Development** – Building Android apps with Kotlin & cross-platform apps with React Native  
+🌐 **Web Development** – Creating modern and responsive websites with Next.js, React, and full-stack solutions with PHP & mySQL  
+⚙️ **Low-Level & Systems Programming** – Writing efficient machine-level code in C and working close to the hardware  
 
-<!--
-**SimonC03/SimonC03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Languages:** C, Python, TypeScript, JavaScript, Kotlin, PHP, SQL (mySQL)  
+**Frontend:** React, Next.js, HTML, CSS  
+**Backend:** Node.js, PHP, mySQL  
+**Design:** Figma
+**Tools:** VS Code, CLion, MATLAB
+**Hardware:** MacBook Pro M1 or PC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
