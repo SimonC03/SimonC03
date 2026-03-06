@@ -29,6 +29,7 @@
 ### 🛠 What I Do
 | Area | Description |
 | :--- | :--- |
+| 🤖 **AI & Data Science** | Building predictive models, NLP pipelines, and data-driven solutions using **Python** to solve real-world business problems. |
 | 📱 **Mobile Dev** | Building Android apps with **Kotlin** & cross-platform solutions with **React Native**. |
 | 🌐 **Web Dev** | Creating responsive websites with **Next.js**, **React**, and full-stack solutions with **PHP & MySQL**. |
 | ⚙️ **Low-Level** | Writing efficient machine-level code in **C** and working close to the hardware. |
