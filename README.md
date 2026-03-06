@@ -63,11 +63,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimonC03&show_icons=true&theme=dark&hide_border=true&count_private=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonC03&layout=compact&theme=dark&hide_border=true&langs_count=6" width="400" />
-</div>
-
-<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/SimonC03/SimonC03/raw/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/SimonC03/SimonC03/raw/output/github-contribution-grid-snake.svg">
