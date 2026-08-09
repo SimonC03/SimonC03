@@ -22,7 +22,7 @@
 ### 🎓 Education
 - **BSc in Mechatronics Engineering** – Chalmers University of Technology
 - **BSc in Business Administration** – School of Business, Economics and Law, University of Gothenburg
-- **Planned MSc in Data Science & AI** – Chalmers University of Technology
+- **Ongoing MSc in Data Science & AI** – Chalmers University of Technology
 
 ---
 
