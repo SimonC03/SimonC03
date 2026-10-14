@@ -18,7 +18,7 @@ Engineer and entrepreneur working at the intersection of **AI, software and busi
 - 🎓 **M.Sc. Data Science & AI** at Chalmers University of Technology (2026–2028), after a **B.Sc. in Automation & Mechatronics Engineering** with the highest results in the programme (GPA 4.9/5.0), studied in parallel with a **B.Sc. in Business Administration** at the School of Business, Economics and Law.
 - 🚌 **Applied AI & ML at Volvo Buses** – built MCP servers and AI agent tooling, forecasting models on large-scale bus time-series data, and a browser-based AI agent extension. Before that, my bachelor thesis produced a **CAN-based vehicle simulation tool** for shift-left verification, tested on a physical HIL rig.
 - 🏠 **CEO & Co-Founder of [CampusLyan](https://www.campuslyan.se/)** – building Sweden's student housing platform, from architecture and code to agreements with some of the country's largest housing companies.
-- 🏆 **Nova 111 Student List 2026** · Adlerbert Scholarship ×2 · Chalmers Mastercard Scholarship · Former President & Group CEO of HandelsFöretagen (a parent company, six subsidiaries and 180+ employees).
+- 🏆 **Nova 111 Student List 2026** · Adlerbert Scholarship ×3 · Chalmers Mastercard Scholarship · Former President & Group CEO of HandelsFöretagen (a parent company, six subsidiaries and 180+ employees).
 
 ## 🧰 Tech stack
 
