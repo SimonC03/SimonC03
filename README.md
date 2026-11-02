@@ -29,4 +29,4 @@ I build AI and software products with Python and TypeScript.
 | [**MA-target-scout**](https://github.com/SimonC03/MA-target-scout) | Finds acquisition candidates that resemble a target profile. | Python, scikit-learn, Streamlit |
 | [**QuotePredictor**](https://github.com/SimonC03/QuotePredictor) | Predicts the win probability of a quote from its PDF. | Python, scikit-learn, Streamlit |
 | [**pdf-rag-chat**](https://github.com/SimonC03/pdf-rag-chat) | Ask questions about a PDF, with local embeddings. | Python, FAISS, OpenAI |
-| [**stunote**](https://github.com/SimonC03/stunote) | Student platform for course literature, shared notes and AI-generated quizzes. Awarded the Chalmers Mastercard Scholarship. | Next.js, TypeScript, Tailwind |
+| [**stunote**](https://github.com/SimonC03/stunote) | Study platform for Swedish students with course material, a textbook marketplace and premium subscriptions. Awarded the Chalmers Mastercard Scholarship. | Next.js, TypeScript, Appwrite, Stripe |
