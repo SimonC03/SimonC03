@@ -15,7 +15,7 @@ I build AI and software products with Python and TypeScript.
 
 ### Tech stack
 
-![Python, TypeScript, JavaScript, HTML, CSS, C, C++, Java, Julia, PHP](https://skillicons.dev/icons?i=python,ts,js,html,css,c,cpp,java,julia,php)
+![Python, TypeScript, JavaScript, HTML, CSS, C, C++, Java, Kotlin, Julia, PHP](https://skillicons.dev/icons?i=python,ts,js,html,css,c,cpp,java,kotlin,julia,php)
 
 ![PyTorch, scikit-learn, React, Next.js, Node.js, Docker, Google Cloud](https://skillicons.dev/icons?i=pytorch,sklearn,react,nextjs,nodejs,docker,gcp)
 
