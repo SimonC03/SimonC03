@@ -25,6 +25,7 @@ I build AI and software products with Python and TypeScript.
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
+| [**diligens**](https://github.com/SimonC03/diligens) | Turns a Swedish SME's bookkeeping into a financial due diligence pack, with every figure traceable to a voucher. | Python, FastAPI, Claude API, MCP |
 | [**MA-target-scout**](https://github.com/SimonC03/MA-target-scout) | Finds acquisition candidates that resemble a target profile. | Python, scikit-learn, Streamlit |
 | [**QuotePredictor**](https://github.com/SimonC03/QuotePredictor) | Predicts the win probability of a quote from its PDF. | Python, scikit-learn, Streamlit |
 | [**pdf-rag-chat**](https://github.com/SimonC03/pdf-rag-chat) | Ask questions about a PDF, with local embeddings. | Python, FAISS, OpenAI |
