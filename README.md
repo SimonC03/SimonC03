@@ -30,3 +30,10 @@ I build AI and software products with Python and TypeScript.
 | [**QuotePredictor**](https://github.com/SimonC03/QuotePredictor) | Predicts the win probability of a quote from its PDF. | Python, scikit-learn, Streamlit |
 | [**pdf-rag-chat**](https://github.com/SimonC03/pdf-rag-chat) | Ask questions about a PDF, with local embeddings. | Python, FAISS, OpenAI |
 | [**stunote**](https://github.com/SimonC03/stunote) | Study platform for Swedish students with course material, a textbook marketplace and premium subscriptions. Awarded the Chalmers Mastercard Scholarship. | Next.js, TypeScript, Appwrite, Stripe |
+
+### Hackathons
+
+| Event | What I built |
+| :--- | :--- |
+| **Einride × Chalmers AI Society: AI-Powered Autonomous Challenge**<br><sub>Nov 2026 · two weeks · upcoming</sub> | Building and tuning a self-driving robot, from hardware and perception to AI-powered control, mentored by Einride's engineers. |
+| **Chalmers AI Society × GoWest Hackathon**<br><sub>Jan 2026 · 24 hours</sub> | Modelled the Swedish housing market and built algorithms that match complex chains of property transactions, so that buyers, sellers and financing line up across the whole chain. |
