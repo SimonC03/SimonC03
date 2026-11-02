@@ -7,7 +7,7 @@
 
 I build AI and software products with Python and TypeScript.
 
-- 🏠 **Co-founder & CEO of [CampusLyan](https://www.campuslyan.se/)**, a student housing platform. I own the architecture and much of the code.
+- 🏠 **Co-founder & CEO/CTO of [CampusLyan](https://www.campuslyan.se/)**, a student housing platform.
 - 🎓 **M.Sc. Data Science & AI** at Chalmers (2026–2028), with a background in automation and mechatronics.
 - 🚌 **Most recently, applied AI & ML at Volvo Buses**: MCP servers, AI agent tooling and time-series forecasting.
 - 🏆 Nova 111 Student List 2026 · Adlerbert Scholarship ×3 · Chalmers Mastercard Scholarship
